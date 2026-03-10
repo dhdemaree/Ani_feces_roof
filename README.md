@@ -9,6 +9,9 @@ GRADE Branch is where information on where GRADE and how GRADE was process and a
 N_Am_Meta_J-EPC0033278-QP-0_20230627_v03.csv  
 This is the R script that was used to conduct the metaanalysis.
 
+WoS_feces_pathogen_DHD_J-EPD-0033278-QP-1-0_20220309_v08.xlsb.zip
+The data that was drawn from the journal articles before it was cleaned and placed in the format that can be used for inputs
+
 Inputs  
 Campylobacter_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv  
 Coliform_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv  
