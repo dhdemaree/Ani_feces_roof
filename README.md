@@ -13,16 +13,16 @@ This folder contains all of the final figures that are going to be used for the 
 # Scripts
 This file contains the scripts that were used to create the tables and figures for the metaanalysis
 
-    # Rawdata
+    Rawdata
       Tables of the outcomes that were drawn from the journal articles and are the inputs for the scripts
     
-    # Data_out
+    Data_out
       Tables of data processed during the meta analysis
       
-    # Forest
+    Forest
       Images of the figures created by the scripts.
       
-    # HighDef
+    HighDef
       High resolution images of the figures created by the scripts.
 
 The Main Branch is where all the files that were directly held to creat the journal article.
