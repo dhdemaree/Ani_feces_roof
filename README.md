@@ -8,11 +8,9 @@ Affiliation ORISE and US EPA
 This file contains all of the data that was used to create the figures for the journal article "Systematic review of animal fecal pathogens that have the potential to affect quality of roof harvested rain water".
 
 Figures
-
 This folder contains all of the final figures that are going to be used for the journal article.
 
 Scripts
-
 This file contains the scripts that were used to create the tables and figures for the metaanalysis
 
 
