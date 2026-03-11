@@ -1,5 +1,9 @@
-# Ani_feces_roof Main
-Repository for systematic review of animal fecal pathogens that have the potential to affect quality of roof harvested rain water.  Work conducted under ORISE and US EPA.
+Ani_feces_roof Main
+
+Repository for the Journal article: systematic review of animal fecal pathogens that have the potential to affect quality of roof harvested rain water.  
+Work conducted by David Demaree
+Affiliation ORISE and US EPA
+3/11/2026
 
 The Main Branch is where all the files that were directly held to creat the journal article.
 RawData Branch unprocessed data.
