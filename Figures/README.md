@@ -1,15 +1,15 @@
-Figures
+#Figures
 
 This file contains all of the figures that are used for the journal article
 
 Figure1_FecalPathDHD_20260226v1.pptx
-Fig. 1.  Meta-analysis Flow Diagram.  The different dashed arrows represent the workflows of different types of microbe concentration outcomes.
+Fig. 1.  Meta-analysis Flow Diagram.  The different dashed arrows represent the workflows of different types of microbe concentration outcomes.  Created on Powerpoint.
 
 Figure2_FecalPathDHD_20260226v1.pptx
-Fig. 2 .  Multiple Imputation of Censored Data and Synthesis.  Limit of Detection (LOD), Maximum Likelihood Estimation using Nelder-Mead Method (MLE-NM), Grading of Recommendations, Assessment, Development, and Evaluations (GRADE).
+Fig. 2 .  Multiple Imputation of Censored Data and Synthesis.  Limit of Detection (LOD), Maximum Likelihood Estimation using Nelder-Mead Method (MLE-NM), Grading of Recommendations, Assessment, Development, and Evaluations (GRADE).  Created on Powerpoint.
 
 Figure3_FecalPathDHD_20260226v1.pptx
-Fig. 3.  PRISMA flow diagram of systematic review. Google Scholar (GS), Web of Science (WoS)
+Fig. 3.  PRISMA flow diagram of systematic review. Google Scholar (GS), Web of Science (WoS).  Created entirely on Powerpoint. Template from https://www.prisma-statement.org/, Page, M.J., McKenzie, J.E., Bossuyt, P.M., Boutron, I., Hoffmann, T.C., Mulrow, C.D., Shamseer, L., Tetzlaff, J.M., Akl, E.A., Brennan, S.E., Chou, R., Glanville, J., Grimshaw, J.M., Hrobjartsson, A., Lalu, M.M., Li, T., Loder, E.W., Mayo-Wilson, E., McDonald, S., McGuinness, L.A., Stewart, L.A., Thomas, J., Tricco, A.C., Welch, V.A., Whiting, P. and Moher, D.  2021.  The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ 372, n71. [10.1136/bmj.n71]
 
 Figure4_FecalPathDHD_20260226v1.tiff
 Fig. 4.  Prevalence of microbes in animal fecal matter (95% confidence intervals).  Positive is how many samples detected positive for a microbe.  The number of reports for total does not equal the sum of other reports because multiple subgroup outcomes can be in a single report and outcomes for subgroups with fewer than 25 outcomes are not displayed.
