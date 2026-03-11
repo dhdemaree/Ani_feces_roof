@@ -1,0 +1,19 @@
+Supplementary Materials
+
+This file contains the supplimentary materials for this study.  
+
+
+The following files are already in the Supplementary Files for the Journal Article
+
+Eligibility Criteria.docx
+This word document contains a table of all the elegibility criteria for reports for the systematic review. In the table are a detailed explaination of each of the elegibility criteria as well as a the justification for why each of the elegibility criteria was used. This is also in the Supplimentary Materials for the paper.  This document contains all the the materials that was used to create Table S1 from the journal article.
+
+Grouping Pathogens.docx
+This word document contains a table with how the pathogens were grouped and is Table S2 in the supplementary materials for the journal article. The first column Pathogen is the pathogen category that the pathogen falls under. The thrid column is the name of the pathogen strain, species, serotype, etc.. from the report. The second column is meta-analysis group which is the group that the retrieved pathogen names are grouped under. The fourth column is the justification. 
+
+MetaanalysisReferences.docx
+This file contains the references for all the review articles that were part of the meta-analysis for this study and is Appendix A in the Supplementary materials. It does not include all references from the raw data that were not used in the journal article.
+
+
+
+The following files 
