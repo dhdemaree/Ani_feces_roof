@@ -19,6 +19,8 @@ This file contains the references for all the review articles that were part of 
 The following files were not part of the Supplementary Materials but were a key part of the study
 
 Animal Taxonomy DHD_J-EPC0033278-QP-1-0_20230407v03.csv
-This file contains all of the standardized animal names as well as their taxonomic data.  This was used to standardized all of the animal names because the studies covered a long period of time and the taxonomic categories of some of the animals had changed and animals had different common names in different locations.
+This file contains all of the standardized animal names as well as their taxonomic data.  This was used to standardized all of the animal names because the reports covered a long period of time and the taxonomic categories of some of the animals had changed and animals had different common names in different locations.
 
+Study_GRADE_DHD_J-EPC0033278-QP-1-0_20230627v02.csv
+This file contains all the GRADE ratings for all of the reports.  These grade ratings were created using the criteria in Table S3 of the Supplementary Materials for the journal article, and were part of the creating of the files in the Rawdata.
 
