@@ -7,12 +7,23 @@ Affiliation ORISE and US EPA
 
 This file contains all of the data that was used to create the figures for the journal article "Systematic review of animal fecal pathogens that have the potential to affect quality of roof harvested rain water".
 
-Figures
+# Figures
 This folder contains all of the final figures that are going to be used for the journal article.
 
-Scripts
+# Scripts
 This file contains the scripts that were used to create the tables and figures for the metaanalysis
 
+    # Rawdata
+      Tables of the outcomes that were drawn from the journal articles and are the inputs for the scripts
+    
+    # Data_out
+      Tables of data processed during the meta analysis
+      
+    # Forest
+      Images of the figures created by the scripts.
+      
+    # HighDef
+      High resolution images of the figures created by the scripts.
 
 The Main Branch is where all the files that were directly held to creat the journal article.
 RawData Branch unprocessed data.
