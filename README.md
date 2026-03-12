@@ -13,16 +13,17 @@ This file contains all of the data that was used to create the figures for the j
 This folder contains all of the final figures that are going to be used for the journal article.
 
 # Scripts
-This file contains the scripts that were used to create the tables and figures for the metaanalysis
+This file contains the scripts that were used to create the tables and figures for the metaanalysis. This file is organized in a way that the scripts should be able to run from the file structure provided.
 
+The following folders are in the Scripts folder
     Rawdata
       Tables of the outcomes that were drawn from the journal articles and are the inputs for the scripts
     
     Data_out
-      Tables of data processed during the meta analysis
+      Tables of data processed during the meta analysis and output from the scripts
       
     Forest
-      Images of the figures created by the scripts.
+      Images of the figures created by the scripts.  Output form the scripts.
       
     HighDef
       High resolution images of the figures created by the scripts.
