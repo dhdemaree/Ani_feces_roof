@@ -3,7 +3,7 @@
 Repository for the Journal article: systematic review of animal fecal pathogens that have the potential to affect quality of roof harvested rain water.  
 Work conducted by David Demaree
 
-Affiliation ORISE and US EPA
+Affiliation ORISE and US EPA, Edison, NJ
 
 3/11/2026
 
