@@ -7,24 +7,24 @@ The scripts in this folder and the folders in the folder are set up in the way t
 
 # R Scripts
 
-N_Am_Meta_DHD_J-EPC0033278-QP-1-0_20260311_v04.R
+### N_Am_Meta_DHD_J-EPC0033278-QP-1-0_20260311_v04.R
 This file is the main R script that conducts the meta analysis for the journal article.  The input files are from the Rawdata and are the outcomes from the journal articles.  This script processes the outcomes from Rawdata to create Data_out which is the text based data that was created during the meta analysis and Forest which contains the images of the figures that were created while processing the data. This script requires Rstudio because it uses an Rstudio command to set the working directory and is already part of the script.   
 
-HighDef_Figures_DHD_J-EPC0033278-QP-1-0_20260226_v01.R
+### HighDef_Figures_DHD_J-EPC0033278-QP-1-0_20260226_v01.R
 This R scipt makes Figures in the resolution for the target journal Water Reasearch.  It reqires that N_Am_Meta_DHD_J-EPC0033278-QP-1-0_20260311_v04.R has been run first or that the workspace that was created in that script is loaded.  This script will then make figured based on the data in the workspace.   Though this script is mostly from N_Am_Meta_DHD_J-EPC0033278-QP-1-0_20260311_v04.R it is being kept seperate for the purpose of creating figures. The ouput of this script is placed in HighDef.
 
 # Input
 
-Rawdata
+### Rawdata
 This file contains cvs files that have all the outcomes that were drawn from the reports.  Each file is seperated by pathogen.
 
 # Output
 
-Data_Out
+### Data_Out
 This file contains all of the text based data that was generated from the script N_Am_Meta_DHD_J-EPC0033278-QP-1-0_20260311_v04.R.
 
-Forest
+### Forest
 This file contains all the images of the figures that were created by the script N_Am_Meta_DHD_J-EPC0033278-QP-1-0_20260311_v04.R.
 
-HighDef
+### HighDef
 This file contains the same images as Forest but the images are higher resolution and were created by the script HighDef_Figures_DHD_J-EPC0033278-QP-1-0_20260226_v01.R.
