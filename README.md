@@ -26,6 +26,6 @@ Images of the figures created by the scripts.  Output form the scripts.
 ### HighDef
 High resolution images of the figures created by the scripts.
 
-# Supplementary Materials
+## Supplementary Materials
 This folder contains supplementary materials for the journal article that are already in the Supplementary Materials for the Journal Article, were a large part of the processing of the outcomes that were drawn form the reports.
 
