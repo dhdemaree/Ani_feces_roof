@@ -11,7 +11,7 @@ The scripts in this folder and the folders in the folder are set up in the way t
 This file is the main R script that conducts the meta analysis for the journal article.  The input files are from the Rawdata and are the outcomes from the journal articles.  This script processes the outcomes from Rawdata to create Data_out which is the text based data that was created during the meta analysis and Forest which contains the images of the figures that were created while processing the data. This script requires Rstudio because it uses an Rstudio command to set the working directory and is already part of the script.   
 
 ### HighDef_Figures_DHD_J-EPC0033278-QP-1-0_20260226_v01.R
-This R scipt makes Figures in the resolution for the target journal Water Reasearch.  It reqires that N_Am_Meta_DHD_J-EPC0033278-QP-1-0_20260311_v04.R has been run first or that the workspace that was created in that script is loaded.  This script will then make figured based on the data in the workspace.   Though this script is mostly from N_Am_Meta_DHD_J-EPC0033278-QP-1-0_20260311_v04.R it is being kept seperate for the purpose of creating figures. The ouput of this script is placed in HighDef.
+This R scipt makes Figures in the resolution for the target journal Water Reasearch.  It reqires that N_Am_Meta_DHD_J-EPC0033278-QP-1-0_20260311_v04.R has been run first or that the workspace that was created in that script is loaded.  This script will then make figures based on the data in the workspace.   Though this script is mostly from N_Am_Meta_DHD_J-EPC0033278-QP-1-0_20260311_v04.R it is being kept seperate for the purpose of editing figures without digging through the larger script. The ouput of this script is placed in HighDef.
 
 # Input
 
