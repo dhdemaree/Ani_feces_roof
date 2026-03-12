@@ -1,4 +1,4 @@
-#Forest
+# Forest
 
 The files in this file are figures for the journal articles that are outputs from the script Scripts > N_Am_Meta_DHD_J-EPC0033278-QP-1-0_20260311_v04.R
 These files were replaced by the figures in Scripts > HighDef because their resolution was not high enough for the journal.  These files are still used in draft of the article and are used as placeholders for the newer figures in HighDef.
