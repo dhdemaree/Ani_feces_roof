@@ -10,9 +10,9 @@ This file contains all of the outcomes (raw data) that was drawn from the report
 ### Giardia_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv
 ### Salmonella_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv
 
-The Supplementary Materials contain the majority of the information that was used to create these files.  
-Supplementary Materials > MetaanalysisReferences.docx contains the citations/references for all of the reports that outcomes were drawn from.
-Supplementary Materials > Grouping Pathogens.docx was used to standardized the pathogen names
-Supplementary Materials > Animal Taxonomy was used to standardize the names and taxonomic categories of the fecal source animals.
-Supplementary Materials > Study_GRADE_DHD_J-EPC0033278-QP-1-0_20230627v02.csv contains the GRADE rating of each of the journal articles.
+The Supplementary Materials contain the majority of the information that was used to create these files. \ 
+Supplementary Materials > MetaanalysisReferences.docx contains the citations/references for all of the reports that outcomes were drawn from.\
+Supplementary Materials > Grouping Pathogens.docx was used to standardized the pathogen names.\
+Supplementary Materials > Animal Taxonomy was used to standardize the names and taxonomic categories of the fecal source animals.\
+Supplementary Materials > Study_GRADE_DHD_J-EPC0033278-QP-1-0_20230627v02.csv contains the GRADE rating of each of the journal articles.\
 Supplementary Materials > Eligibility Criteria.docx contains the elegibility critereria for the accepted studies.
