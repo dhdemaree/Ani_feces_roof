@@ -1,6 +1,6 @@
 # Figures
 
-This file contains all of the figures that are used for the journal article
+This file contains all of the figures that are used for the journal article.
 
 ### Figure1_FecalPathDHD_20260226v1.pptx
 Fig. 1.  Meta-analysis Flow Diagram.  The different dashed arrows represent the workflows of different types of microbe concentration outcomes.  Created on Powerpoint.
